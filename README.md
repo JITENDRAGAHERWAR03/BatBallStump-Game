@@ -25,3 +25,7 @@ This project is designed for beginners to understand basic JavaScript logic, ran
 
 ## 📂 Project Structure
 
+Bat-Ball-Stump-Game/
+│
+├── index.html
+└── README.md
