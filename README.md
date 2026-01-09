@@ -37,3 +37,4 @@ Bat-Ball-Stump-Game/
 1. Clone the repository  
    ```bash
    git clone https://github.com/your-username/Bat-Ball-Stump-Game.git
+cd Bat-Ball-Stump-Game
