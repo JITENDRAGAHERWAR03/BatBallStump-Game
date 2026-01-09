@@ -51,7 +51,8 @@ Click Stump → You may give runs or get out
 Results are displayed instantly on the screen
 
  🌟Preview :
-     Add Screenshot here 
+<img width="591" height="408" alt="image" src="https://github.com/user-attachments/assets/d4a9252b-c537-4157-8192-096cdbac31cf" />
+
 🚀 Learning Outcomes
 
 JavaScript functions and conditions
